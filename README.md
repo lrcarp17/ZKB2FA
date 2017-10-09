@@ -1,5 +1,13 @@
 # ZKB2FA
 
 ##Test
-# g++ -o main.exe main.c keystrokes.c <br />
-# ./main
+Steps to running the code:
+
+``
+$ g++ -o main.exe main.c keystrokes.c
+``` 
+And then..
+``
+$ ./main
+``` 
+
